@@ -43,10 +43,10 @@ Clone this repository:
 
 ```bash
 
-git clone https://github.com/your-username/zameen-web-scraper.git
+git clone git clone https://github.com/razaq090/realestate-data-scraper-from-zameen.com-website
 cd zameen-web-scraper
 ```
-Run the script:
+## Run the script:
 
 ```bash
 python zameen_scraper.py
@@ -55,6 +55,7 @@ The data will be saved as:
 zameen_bahria_town.csv
 
 ## Project Structure
+
 ```graphql
 zameen-web-scraper/
 │
@@ -67,6 +68,7 @@ zameen-web-scraper/
 ```
 
 ## Using This Data for ML or Graphs
+
 - You can import the .csv into pandas for preprocessing.
 
 - Use matplotlib, seaborn, or plotly to visualize property prices.
@@ -74,16 +76,22 @@ zameen-web-scraper/
 - Integrate with regression models to predict prices based on features.
 
 ## Disclaimer
+
 This script is for educational and personal use only. Please respect the Zameen.com terms of service.
 
-# License
+## License
+
 Licensed under the MIT License. You're free to use, modify, and distribute this code.
 
-# Author
-[razaq090]
+##  Author
+
+**Abdulrazaq**  
+[My GitHub Profile](https://github.com/razaq090)  
+[Email me](mailto:innovativerazaq.it@gmail.com)
 
 Feel free to open issues or pull requests for suggestions or improvements.
 
 ```yaml
-Let me know if you want this automatically saved as a `.md` file on your system.
-```
+# Tip:
+# Let me know if you want this automatically saved as a `.md` file on your system.
+
