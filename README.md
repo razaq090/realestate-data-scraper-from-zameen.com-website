@@ -28,6 +28,14 @@ This Python script scrapes real estate listings from [Zameen.com](https://www.za
 - Data visualization and market insights.
 
 ---
+## 🚀 How to Run
+
+```bash
+git clone https://github.com/razaq090/realestate-data-scraper-from-zameen.com-website.git
+cd realestate-data-scraper-from-zameen.com-website
+python zameen_scraper.py
+
+---
 
 ## 🧾 Requirements
 
@@ -36,10 +44,5 @@ Install the required Python libraries:
 ```bash
 pip install requests beautifulsoup4 pandas
 
-## 🚀 How to Run
 
-```bash
-git clone https://github.com/razaq090/realestate-data-scraper-from-zameen.com-website.git
-cd realestate-data-scraper-from-zameen.com-website
-python zameen_scraper.py
 
